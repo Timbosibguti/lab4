@@ -3,7 +3,7 @@
 
 int main()
 {
-	double a = 1, b = 2, c = 3, d, x1, x2;
+	double a, b, c, d, x1, x2;
 	int koren;
 	printf("vvedite a b c: ");
 	scanf("%lf %lf %lf", &a, &b, &c);
